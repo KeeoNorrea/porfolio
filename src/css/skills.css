@@ -8,7 +8,7 @@
 }
 .articleSkills_section{
     display: flex;
-    background: #af82ff;
+    background: linear-gradient(#0a6fbd, #0c4c80); 
     padding-bottom: 5%;
     padding-top: 5%;
     justify-content: center;
